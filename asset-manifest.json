@@ -1,21 +1,39 @@
 {
   "files": {
-    "main.js": "/medicure/static/js/main.cca9f365.chunk.js",
-    "main.js.map": "/medicure/static/js/main.cca9f365.chunk.js.map",
-    "runtime-main.js": "/medicure/static/js/runtime-main.2880172f.js",
-    "runtime-main.js.map": "/medicure/static/js/runtime-main.2880172f.js.map",
-    "static/css/2.818011ed.chunk.css": "/medicure/static/css/2.818011ed.chunk.css",
-    "static/js/2.9e368d03.chunk.js": "/medicure/static/js/2.9e368d03.chunk.js",
-    "static/js/2.9e368d03.chunk.js.map": "/medicure/static/js/2.9e368d03.chunk.js.map",
+    "main.js": "/medicure/static/js/main.68deb770.chunk.js",
+    "main.js.map": "/medicure/static/js/main.68deb770.chunk.js.map",
+    "runtime-main.js": "/medicure/static/js/runtime-main.5f4f0a84.js",
+    "runtime-main.js.map": "/medicure/static/js/runtime-main.5f4f0a84.js.map",
+    "static/js/2.42ff3ac2.chunk.js": "/medicure/static/js/2.42ff3ac2.chunk.js",
+    "static/js/2.42ff3ac2.chunk.js.map": "/medicure/static/js/2.42ff3ac2.chunk.js.map",
+    "static/css/3.818011ed.chunk.css": "/medicure/static/css/3.818011ed.chunk.css",
+    "static/js/3.f9059622.chunk.js": "/medicure/static/js/3.f9059622.chunk.js",
+    "static/js/3.f9059622.chunk.js.map": "/medicure/static/js/3.f9059622.chunk.js.map",
+    "static/js/4.fa42360b.chunk.js": "/medicure/static/js/4.fa42360b.chunk.js",
+    "static/js/4.fa42360b.chunk.js.map": "/medicure/static/js/4.fa42360b.chunk.js.map",
+    "static/js/5.690ec806.chunk.js": "/medicure/static/js/5.690ec806.chunk.js",
+    "static/js/5.690ec806.chunk.js.map": "/medicure/static/js/5.690ec806.chunk.js.map",
     "index.html": "/medicure/index.html",
-    "static/css/2.818011ed.chunk.css.map": "/medicure/static/css/2.818011ed.chunk.css.map",
-    "static/js/2.9e368d03.chunk.js.LICENSE.txt": "/medicure/static/js/2.9e368d03.chunk.js.LICENSE.txt",
-    "static/media/bg.6d3ff07b.jpg": "/medicure/static/media/bg.6d3ff07b.jpg"
+    "static/css/3.818011ed.chunk.css.map": "/medicure/static/css/3.818011ed.chunk.css.map",
+    "static/js/2.42ff3ac2.chunk.js.LICENSE.txt": "/medicure/static/js/2.42ff3ac2.chunk.js.LICENSE.txt",
+    "static/js/3.f9059622.chunk.js.LICENSE.txt": "/medicure/static/js/3.f9059622.chunk.js.LICENSE.txt",
+    "static/js/4.fa42360b.chunk.js.LICENSE.txt": "/medicure/static/js/4.fa42360b.chunk.js.LICENSE.txt",
+    "static/js/5.690ec806.chunk.js.LICENSE.txt": "/medicure/static/js/5.690ec806.chunk.js.LICENSE.txt",
+    "static/media/Doctor.eccbb39c.png": "/medicure/static/media/Doctor.eccbb39c.png",
+    "static/media/Patients.586eb350.png": "/medicure/static/media/Patients.586eb350.png",
+    "static/media/addAdmin.660814db.png": "/medicure/static/media/addAdmin.660814db.png",
+    "static/media/appHistory.f43599cb.jpg": "/medicure/static/media/appHistory.f43599cb.jpg",
+    "static/media/bg.6d3ff07b.jpg": "/medicure/static/media/bg.6d3ff07b.jpg",
+    "static/media/bookapp.4d0ba961.jpg": "/medicure/static/media/bookapp.4d0ba961.jpg",
+    "static/media/manageDocs.21d1c241.png": "/medicure/static/media/manageDocs.21d1c241.png",
+    "static/media/manageProfile.849d3cc8.png": "/medicure/static/media/manageProfile.849d3cc8.png",
+    "static/media/manageWallet.c5fea284.png": "/medicure/static/media/manageWallet.c5fea284.png",
+    "static/media/viewReports.1358d10a.png": "/medicure/static/media/viewReports.1358d10a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2880172f.js",
-    "static/css/2.818011ed.chunk.css",
-    "static/js/2.9e368d03.chunk.js",
-    "static/js/main.cca9f365.chunk.js"
+    "static/js/runtime-main.5f4f0a84.js",
+    "static/css/3.818011ed.chunk.css",
+    "static/js/3.f9059622.chunk.js",
+    "static/js/main.68deb770.chunk.js"
   ]
 }
